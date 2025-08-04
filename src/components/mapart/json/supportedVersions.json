@@ -1,4 +1,8 @@
 {
+  "1_8": {
+    "MCVersion": "1.8",
+    "NBTVersion": 1343
+  },
   "1_12_2": {
     "MCVersion": "1.12.2",
     "NBTVersion": 1343

@@ -6,7 +6,7 @@ import GreenButtons from "./greenButtons";
 import MapPreview from "./mapPreview";
 import MapSettings from "./mapSettings";
 import Materials from "./materials";
-import coloursJSON from "./json/coloursJSON.json";
+import coloursJSON from "./json/coloursJSON_with_1_8.json";
 import ViewOnline2D from "./viewOnline2D/viewOnline2D";
 import ViewOnline3D from "./viewOnline3D/viewOnline3D";
 
